@@ -140,6 +140,7 @@ https://screenshots/page4_city.png
 
 ## Results Summary
 | **Metric** | **Value** |
+|---------|---------|
 | Campaigns analyzed | 257 |
 | Total budget modeled | ₹10,00,000 |
 | Projected revenue | ₹30,24,172.89 |
