@@ -1,5 +1,5 @@
 ## Meta Ads Campaign Performance Analysis
-![E-commerce Dashboard]
+![E-commerce Dashboard](https://github.com/princesaini05/Meta-Ads-Campaign-Performance-Analysis/blob/970aeadc657c8080e8cff8f32523d3627156dde3/Meta%20Ads%20Campaign%20Performance%20Analysis.png)
 
 An end to end data analysis project analyzing **257 Meta Ads campaings** to identify profitable vs loss making campaigns, engineer marketing KPIs and build 4-page Power BI dashboard for budget optimization decisions and design a **₹10 Lakh, 6-month budget allocation model** projecting 
 **₹30.24 Lakh revenue and ₹20.24 Lakh profit (202% ROI)**.
