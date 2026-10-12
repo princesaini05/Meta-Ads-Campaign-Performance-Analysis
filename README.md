@@ -125,7 +125,7 @@ Overall ROI = 202.42%
 
 ## Power BI Dashboard
 Page 1 — Executive Summary
-https://screenshots/page1_executive.png
+[https://screenshots/page1_executive.png](https://github.com/princesaini05/Meta-Ads-Campaign-Performance-Analysis/blob/eb132f0697c2cb0047693a330678aef934cba735/Power%20BI%20dashboard/screenshots/01_Executive%20Summary.png)
 
 Page 2 — Profitability & Decision Analysis
 https://screenshots/page2_profitability.png
