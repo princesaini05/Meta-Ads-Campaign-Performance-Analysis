@@ -114,6 +114,7 @@ Overall ROI = 202.42%
 
 ## Bucket-by-Bucket Breakdown
 | **Bucket** | **Budget** | **Expected ROAS** | **Revenue** | **Profit** |
+|-----|---------|---------|---------|---------|
 | Winners | ₹5,00,000 | 4.50x | ₹22,50,000 | ₹17,50,000 |
 | Optimize | ₹2,00,000 | 2.74x | ₹5,48,000 | ₹3,48,000 |
 | Test & Learn | ₹2,00,000 | 1.95x (60% success) | ₹3,90,000 | ₹1,90,000 |
