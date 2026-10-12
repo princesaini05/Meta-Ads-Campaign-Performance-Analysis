@@ -128,14 +128,20 @@ Overall ROI = 202.42%
 Page 1 — Executive Summary
 ![Executive Summary](https://github.com/princesaini05/Meta-Ads-Campaign-Performance-Analysis/blob/eb132f0697c2cb0047693a330678aef934cba735/Power%20BI%20dashboard/screenshots/01_Executive%20Summary.png)
 
+
+
 Page 2 — Profitability & Decision Analysis
 ![Profitability & Decision Analysis](https://github.com/princesaini05/Meta-Ads-Campaign-Performance-Analysis/blob/6122b77d104f1eb9b4ef8d9cd8b415845549c15e/Power%20BI%20dashboard/screenshots/02_Profitability%20%26%20Decision%20Analysis.png)
 
+
+
 Page 3 — Platform & Creative
-https://screenshots/page3_platform.png
+![Platform & Creative](https://github.com/princesaini05/Meta-Ads-Campaign-Performance-Analysis/blob/14ca30adc88ff5309951f3ca29500cb32db2a66f/Power%20BI%20dashboard/screenshots/03_Platform%20%26%20Creative.png)
+
+
 
 Page 4 — City Performance
-https://screenshots/page4_city.png
+![City Performance](https://github.com/princesaini05/Meta-Ads-Campaign-Performance-Analysis/blob/14ca30adc88ff5309951f3ca29500cb32db2a66f/Power%20BI%20dashboard/screenshots/04_City%20Performance%20Analysis.png)
 
 ---
 
