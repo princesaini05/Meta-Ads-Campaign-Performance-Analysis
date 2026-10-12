@@ -1,0 +1,263 @@
+campaign_id,campaign_name,adset,platform,objective,status,start_date,end_date,impressions,reach,clicks,spend,leads,purchases,revenue,conversion_value,country,region,age_group,gender,placement,device,creative_type
+C027,Hyderabad Conversion,Interest - Technology,Facebook,Leads,COMPLETED,2026-02-18,2026-02-25,83426,68019,435,3114.32,10,2,2508.48,2508.48,India,Hyderabad,45-54,Female,Reels,Mobile,Video
+C055,Ahmedabad Sales,Lookalike 1%,Instagram,Leads,PAUSED,2026-04-18,2026-05-06,107945,72764,733,5534.06,18,8,1157.3,1157.3,India,Ahmedabad,35-44,All,Audience Network,Mobile,Image
+C050,Jaipur Lead Generation,Interest - Technology, INSTAGRAM ,Conversions,active,2026-01-14,2026-02-10,14694,13073,193,5935.39,22,0,6833.65,6833.65,India,Jaipur,18-24,Female,Instagram Feed,Mobile,Image
+C093,Mumbai Sales,Interest - Technology,Facebook,Leads,ACTIVE,2026-04-25,2026-05-22,230437,198773,2701,5218.18,90,46,4675.25,4675.25,India,Mumbai,18-24,All,Audience Network,Mobile,Reel
+C151,mumbai sales,Interest - Business,Instagram,Leads,PAUSED,2026-01-15,2026-02-12,239711,197146,2077,3384.24,121,24,3956.57,3956.57,India,Mumbai ,55+,Female,Facebook Feed,Mobile,Reel
+C004,Ahmedabad Sales,Interest - Business,Facebook,Traffic,ACTIVE,2026-05-20,2026-06-05,62138,38408,612,3471.69,37,4,893.98,893.98,India,Ahmedabad,18-24,All,Audience Network,Tablet,Carousel
+C083,Chennai Retargeting,Broad Audience,Instagram,Sales,ACTIVE,2026-06-06,2026-07-04,49435,35264,255,2599.47,14,2,1417.54,1417.54,India,Chennai,35-44,Male,Facebook Feed,Mobile,Video
+C223,Chennai Retargeting,Lookalike 1%,Facebook,Sales,ACTIVE,2026-04-21,2026-05-17,44069,24913,457,6014.82,31,3,7729.34,7729.34,India,Chennai,25-34,Male,Facebook Feed,Mobile,Image
+C255,Delhi NCR Lead Gen,Interest - Technology,Facebook,Conversions,ACTIVE,2026-01-18,2026-02-16,221877,134014,1392,4485.01,139,17,5192.17,5192.17,India,Delhi NCR,45-54,Female,Audience Network,Mobile,Carousel
+C122,Hyderabad Conversion,Broad Audience,Facebook,Sales,COMPLETED,2026-04-22,2026-05-08,121814,96119,1050,4962.38,42,15,2213.01,2213.01,India,Hyderabad,35-44,Male,Instagram Feed,Mobile,Carousel
+C227,Delhi NCR Lead Gen,Lookalike 1%,Instagram,Leads,PAUSED,2026-06-24,2026-07-12,156865,127165,1645,4263.4,48,31,1056.35,1056.35,India,Delhi NCR,25-34,All,Audience Network,Mobile,Video
+C213,Ahmedabad Sales,Website Visitors,Facebook,Leads,ACTIVE,2026-05-29,2026-06-07,171180,152115,1856,1496.97,215,5,1899.12,1899.12,India,Ahmedabad,18-24,All,Reels,Mobile,Image
+C183,Ahmedabad Sales,Broad Audience,Instagram,Conversions,PAUSED,2026-04-29,2026-05-06,154115,102338,1804,5311.67,206,24,5704.37,5704.37,India,Ahmedabad,45-54,All,Audience Network,Mobile,Image
+C051,Delhi NCR Lead Gen,Broad Audience,Facebook,Sales,ACTIVE,2026/04/23,2026-05-04,37248,25316,201,4273.76,7,2,857.8,857.8,India,Delhi NCR,18-24,All,Audience Network,Mobile,Reel
+C192,Lucknow Lead Gen,Broad Audience,Facebook,Leads,ACTIVE,2026-03-29,2026-04-13,165489,118216,1488,3731.26,143,19,2506.67,2506.67,India,Lucknow,55+,Male,Facebook Feed,Desktop,Image
+C067,Mumbai Sales,Website Visitors, INSTAGRAM ,Leads,ACTIVE,2026-05-17,2026-06-07,33178,20448,387,6101.17,12,4,5134.04,5134.04,India,Mumbai,45-54,All,Instagram Feed,Mobile,Carousel
+C033,Ahmedabad Sales,Retargeting,Facebook,Sales,PAUSED,2026/02/05,2026-02-24,63789,37984,245,3127.93,23,0,2863.58,2863.58,India,Ahmedabad ,45-54,Male,Instagram Stories,Mobile,Image
+C044,Bangalore Tech Leads,Website Visitors, INSTAGRAM ,Sales,ACTIVE,2026-04-03,2026-04-29,161394,115638,1649,5122.69,77,13,6254.42,6254.42,India,Bangalore ,55+,All,Facebook Stories,Mobile,Image
+C112,Delhi NCR Lead Gen,Engaged Users,Instagram,Leads,COMPLETED,2026-03-09,2026-03-25,169552,106719,1133,1557.14,128,8,436.26,436.26,India,Delhi NCR,18-24,All,Facebook Feed,Mobile,Video
+C248,Hyderabad Conversion,Engaged Users,Instagram,Leads,PAUSED,2026-01-08,2026-02-08,124971,98031,941,3907.36,106,8,3933.54,3933.54,India,Hyderabad,55+,Male,Audience Network,Mobile,Image
+C041,Ahmedabad Sales,Broad Audience,Instagram,Sales,PAUSED,2026-02-08,2026-02-21,134200,94343,1539,6422.46,141,17,3583.58,3583.58,India,Ahmedabad,18-24,All,Facebook Stories,Mobile,Reel
+C085,Lucknow Lead Gen,Retargeting,Instagram,Traffic,PAUSED,2026-04-03,2026-04-21,29120,24502,1281,4467.61,178,76,41337.35,41337.35,India,Lucknow,55+,Male,Facebook Stories,Mobile,Video
+C011,Delhi NCR Lead Gen,Lookalike 1%,Facebook,Conversions,PAUSED,2026-02-17,2026-03-19,132869,105643,1231,3335.04,126,18,318.91,318.91,India,Delhi NCR,18-24,Male,Audience Network,Mobile,Image
+C102,Mumbai Sales,Lookalike 1%,Instagram,Sales,COMPLETED,2026-05-11,2026-06-10,50000,32966,1545,2590.79,412,113,18683.69,18683.69,India,Mumbai,25-34,All,Facebook Feed,Desktop,Carousel
+C120,Mumbai Sales,Engaged Users,Facebook,Leads,ACTIVE,2026-04-20,2026-05-01,119360,100416,1370,5799.36,66,4,7807.3,7807.3,India,Mumbai,25-34,Female,Instagram Feed,Mobile,Image
+C037,Hyderabad Conversion,Interest - Business,Instagram,Traffic,ACTIVE,2026-03-22,2026-04-07,126062,104841,1528,4560.97,129,4,6152.13,6152.13,India,Hyderabad,45-54,Female,Reels,Tablet,Reel
+C221,Lucknow Lead Gen,Interest - Business,Instagram,Sales,ACTIVE,2026-02-17,03-16-2026,130085,89188,460,2096.8,15,9,244.97,244.97,India,Lucknow,55+,Male,Reels,Desktop,Image
+C111,Ahmedabad Sales,Engaged Users, INSTAGRAM ,Traffic,COMPLETED,2026-05-21,2026-06-12,50000,32545,571,4506.36,13,2,5572.16,5572.16,India,Ahmedabad,55+,Male,Facebook Feed,Desktop,Image
+C149,Delhi NCR Lead Gen,Retargeting,Instagram,Leads,PAUSED,2026-05-24,2026-06-05,28714,22651,73,5348.59,3,0,4543.76,4543.76,India,Delhi NCR,25-34,Male,Audience Network,Mobile,Image
+C175,Ahmedabad Sales,Interest - Technology,Instagram,Leads,ACTIVE,2026-06-20,2026-07-20,91850,55010,1126,6081.21,109,2,6672.45,6672.45,India,Ahmedabad,18-24,Female,Audience Network,Tablet,Image
+C057,Noida Conversion,Website Visitors,Facebook,Leads,ACTIVE,08/02/2026,2026-02-27,175290,108674,1845,1870.34,59,34,245.0,245.0,India,Noida,55+,Female,Facebook Stories,Mobile,Video
+C107,Delhi NCR Lead Gen,Engaged Users,Facebook,Conversions,ACTIVE,2026-04-19,2026-05-02,50000,27628,415,5636.56,14,6,4960.82,4960.82,India,Delhi NCR,55+,All,Facebook Stories,Mobile,Carousel
+C189,Noida Conversion,Broad Audience,Instagram,Leads,PAUSED,2026-05-16,2026-06-06,165410,136533,1810,4817.45,213,9,2041.94,2041.94,India,Noida,55+,All,Reels,Tablet,Image
+C145,gurgaon performance,Website Visitors,Facebook,Leads,PAUSED,2026-06-24,2026-07-24,120260,94127,4477,1137.16,1170,255,9190.03,9190.03,India,Gurgaon,25-34,Female,Instagram Stories,Mobile,Video
+C160,Hyderabad Conversion,Lookalike 1%,Facebook,Conversions,ACTIVE,2026-01-30,2026-02-08,205394,163659,2189,1764.49,258,10,346.7,346.7,India,Hyderabad,25-34,Female,Instagram Feed,Desktop,Image
+C103,Hyderabad Conversion,Broad Audience,Instagram,Conversions,ACTIVE,2026-02-20,2026-02-28,191987,158054,1492,4020.0,51,26,3570.72,3570.72,India,Hyderabad,25-34,All,Instagram Stories,Mobile,Video
+C086,Kolkata Awareness,Lookalike 1%, facebook ,Leads,PAUSED,2026-03-20,2026-04-08,238580,169539,3192,4758.7,271,23,3873.97,3873.97,India,Kolkata,45-54,Female,Instagram Feed,Mobile,Video
+C250,Hyderabad Conversion,Engaged Users,Facebook,Conversions,ACTIVE,2026-02-21,2026-03-20,202563,151731,2697,3043.4,181,11,2208.31,2208.31,India,Hyderabad,45-54,Male,Reels,Desktop,Reel
+C127,Noida Conversion,Website Visitors,Facebook,Leads,ACTIVE,2026-02-12,2026-03-02,50000,29946,193,2467.29,12,0,1068.72,1068.72,India,Noida,55+,All,Facebook Feed,Mobile,Image
+C045,Pune Education,Website Visitors,Facebook,Traffic,ACTIVE,2026-05-28,2026-06-14,50000,29504,476,3070.94,19,6,1851.78,1851.78,India,Pune,55+,Male,Audience Network,Mobile,Carousel
+C007,Chennai Retargeting,Lookalike 1%,Facebook,Leads,ACTIVE,2026-02-08,03-02-2026,191342,150000,1772,3126.72,119,13,393.33,393.33,India,Chennai,25-34,All,Instagram Stories,Mobile,Video
+C116,Lucknow Lead Gen,Website Visitors,Instagram,Leads,COMPLETED,2026-02-09,2026-02-25,249866,178625,1272,4771.61,107,16,3810.28,3810.28,India,Lucknow,18-24,All,Instagram Stories,Mobile,Image
+C113,Lucknow Lead Gen,Interest - Technology,Instagram,Traffic,PAUSED,2026-01-15,2026-02-03,54917,41068,549,3885.04,34,4,4195.99,4195.99,India,Lucknow,45-54,All,Instagram Stories,Mobile,Image
+C062,Bangalore Tech Leads,Lookalike 1%,Facebook,Conversions,ACTIVE,2026-01-03,2026-02-01,16430,13435,159,4972.89,17,1,3636.07,3636.07,India,Bangalore,55+,Male,Instagram Stories,Mobile,Carousel
+C077,Pune Education,Retargeting,Facebook,Leads,ACTIVE,2026-01-11,2026-01-19,31049,23974,406,5339.25,20,4,3955.05,3955.05,India,Pune,55+,Female,Audience Network,Desktop,Image
+C052,Chennai Retargeting,Interest - Technology,Facebook,Traffic,ACTIVE,2026-06-09,2026-06-22,221915,165049,2691,1117.94,280,30,253.93,253.93,India,Chennai,35-44,All,Reels,Mobile,Image
+C128,Gurgaon Performance,Lookalike 1%,Facebook,Leads,ACTIVE,2026-01-09,2026-01-30,118669,88494,372,1703.37,19,2,859.09,859.09,India,Gurgaon,45-54,All,Audience Network,Mobile,Carousel
+C137,Noida Conversion,Website Visitors,Facebook,Conversions,COMPLETED,2026-03-21,2026-04-14,203559,133612,2247,5667.98,128,2,6407.71,6407.71,India,Noida,35-44,Female,Instagram Feed,Mobile,Carousel
+C226,Kolkata Awareness,Interest - Technology,Instagram,Leads,ACTIVE,2026-03-31,2026-04-21,53841,30193,229,2816.53,26,3,653.39,653.39,India,Kolkata,35-44,All,Instagram Feed,Mobile,Video
+C082,Kolkata Awareness,Broad Audience,Facebook,Leads,ACTIVE,2026-06-09,2026-06-26,56948,40025,794,4688.46,71,13,2226.65,2226.65,India,Kolkata,35-44,All,Instagram Feed,Desktop,Reel
+C003,Gurgaon Performance,Lookalike 1%,Facebook,Traffic,ACTIVE,2026-02-22,2026-03-15,103129,64466,3378,2070.72,689,272,10464.68,10464.68,India,Gurgaon,25-34,Female,Instagram Stories,Mobile,Video
+C064,Hyderabad Conversion,Interest - Technology,Facebook,Conversions,active,2026-06-18,2026-06-30,193130,133836,846,6436.97,63,3,7351.71,7351.71,India,Hyderabad,18-24,All,Facebook Stories,Mobile,Video
+C038,Mumbai Sales,Website Visitors,Facebook,Leads,ACTIVE,2026-04-12,2026-04-24,21201,17993,257,3299.82,15,5,857.38,857.38,India,Mumbai,25-34,All,Audience Network,Mobile,Carousel
+C153,Lucknow Lead Gen,Interest - Technology,Facebook,Traffic,ACTIVE,2026-05-03,2026-05-11,98813,62437,337,3422.1,11,5,2159.0,2159.0,India,Lucknow,18-24,Male,Reels,Desktop,Carousel
+C135,Delhi NCR Lead Gen,Engaged Users,Instagram,Conversions,ACTIVE,2026-04-09,2026-05-10,45635,26030,209,2050.54,10,4,280.32,280.32,India,Delhi NCR,55+,All,Audience Network,Desktop,Carousel
+C214,Chennai Retargeting,Interest - Technology,Instagram,Traffic,ACTIVE,2026-06-01,2026-06-30,92690,60108,754,1187.87,33,10,839.2,839.2,India,Chennai,18-24,Female,Instagram Stories,Mobile,Carousel
+C180,Jaipur Lead Generation,Interest - Technology,Instagram,Leads,ACTIVE,2026-01-16,2026-02-05,85769,55986,1046,4587.18,100,15,4148.73,4148.73,India,Jaipur,55+,All,Instagram Feed,Mobile,Image
+C012,Lucknow Lead Gen,Interest - Technology,Facebook,Leads,ACTIVE,2026-06-16,2026-07-13,47049,36776,149,2663.05,15,1,2037.76,2037.76,India,Lucknow,25-34,All,Instagram Feed,Mobile,Video
+C168,Ahmedabad Sales,Engaged Users,Instagram,Traffic,ACTIVE,2026-06-28,2026-07-14,78301,58331,630,3627.79,69,10,4215.71,4215.71,India,Ahmedabad,45-54,Female,Instagram Feed,Mobile,Reel
+C047,Kolkata Awareness,Interest - Business,Instagram,Conversions,ACTIVE,2026-02-24,2026-03-19,235421,194072,2178,3593.14,159,41,1841.66,1841.66,India,Kolkata,35-44,Male,Instagram Stories,Desktop,Reel
+C010,Noida Conversion,Broad Audience,Facebook,Leads,COMPLETED,2026-04-29,2026-05-11,143237,112084,531,4358.83,20,4,5426.82,5426.82,India,Noida,18-24,Female,Instagram Stories,Mobile,Image
+C217,Pune Education,Interest - Business, INSTAGRAM ,,ACTIVE,2026-01-17,2026-02-05,214723,148638,1373,6079.27,88,6,677.99,677.99,India,Pune,18-24,Female,Instagram Stories,Mobile,Carousel
+C158,Hyderabad Conversion,Website Visitors,Instagram,Conversions,COMPLETED,2026-01-04,2026-02-02,159238,132948,961,2312.53,86,13,206.48,206.48,India,Hyderabad,45-54,All,Audience Network,Mobile,Image
+C184,Jaipur Lead Generation,Interest - Business,Instagram,Leads,COMPLETED,2026-06-07,2026-07-08,87622,53312,857,3469.53,82,18,3011.05,3011.05,India,Jaipur,45-54,All,Audience Network,Mobile,Video
+C025,Gurgaon Performance,Website Visitors,Instagram,Leads,ACTIVE,2026-03-16,2026-03-30,178584,99640,2301,5235.63,245,37,6823.48,6823.48,India,Gurgaon,55+,Female,Audience Network,Mobile,Carousel
+C144,Noida Conversion,Lookalike 1%,Instagram,Leads,ACTIVE,2026-03-23,2026-03-31,189621,110267,722,3908.0,61,11,2496.87,2496.87,India,Noida,45-54,All,Instagram Stories,Mobile,Video
+C073,Pune Education,Lookalike 1%,Facebook,Leads,ACTIVE,2026-06-12,2026-06-27,110010,88318,1501,4955.77,142,32,2210.52,2210.52,India,Pune,25-34,Male,Audience Network,Mobile,Carousel
+C243,Kolkata Awareness,Interest - Business,Facebook,Conversions,ACTIVE,2026-06-15,2026-07-02,243117,173015,1576,5208.59,108,5,687.55,687.55,India,Kolkata,35-44,Male,Audience Network,Desktop,Video
+C206,Delhi NCR Lead Gen,Interest - Business,Facebook,Leads,ACTIVE,2026-03-24,2026-03-31,26444,16036,365,3087.14,36,3,4081.06,4081.06,India,Delhi NCR,25-34,Female,Instagram Feed,Mobile,Carousel
+C138,Kolkata Awareness,Broad Audience,Instagram,Leads,ACTIVE,2026-05-23,2026-06-03,238743,173175,829,6063.27,84,10,6661.2,6661.2,India,Kolkata,55+,Female,Instagram Stories,Mobile,Video
+C157,Chennai Retargeting,Interest - Technology,Instagram,Sales,ACTIVE,2026-02-13,2026-03-12,136269,82212,398,1333.84,34,3,189.2,189.2,India,Chennai,35-44,All,Instagram Feed,Mobile,Reel
+C087,Delhi NCR Lead Gen,Lookalike 1%,Instagram,Traffic,COMPLETED,2026-04-07,2026-05-04,117662,93389,1259,4988.7,126,21,5882.33,5882.33,India,Delhi NCR,55+,All,Audience Network,Mobile,Video
+C049,Lucknow Lead Gen,Broad Audience,Facebook,Sales,ACTIVE,2026-03-24,2026-04-21,168700,119128,516,5677.13,10,3,4938.02,4938.02,India,Lucknow,35-44,All,Audience Network,Mobile,Video
+C017,Mumbai Sales,Interest - Technology,Instagram,Conversions,COMPLETED,2026-06-10,2026-06-22,233902,159838,1969,3027.86,215,29,356.08,356.08,India,Mumbai,35-44,All,Facebook Feed,Desktop,Image
+C200,Kolkata Awareness,Interest - Business,Instagram,Leads,ACTIVE,2026/02/22,2026-03-18,107468,70448,1098,2718.58,115,6,3161.8,3161.8,India,Kolkata,55+,Female,Facebook Feed,Mobile,Reel
+C253,Kolkata Awareness,Interest - Technology,Facebook,Sales,ACTIVE,2026-03-14,2026-03-21,115877,89294,688,2293.99,74,9,1339.95,1339.95,India,Kolkata,35-44,All,Reels,Mobile,Carousel
+C103,Hyderabad Conversion,Broad Audience,Instagram,Conversions,ACTIVE,2026-02-20,2026-02-28,191987,129905,894,4862.31,90,2,2500.43,2500.43,India,Hyderabad,25-34,All,Instagram Stories,Mobile,Video
+C174,Mumbai Sales,Interest - Technology,Instagram,Conversions,PAUSED,2026-03-06,2026-04-06,128843,74816,1801,1493.56,139,13,893.28,893.28,India,Mumbai,25-34,Male,Reels,Mobile,Reel
+C015,Kolkata Awareness,Interest - Technology,Instagram,Conversions,ACTIVE,2026-01-15,2026-01-25,146099,86388,2041,2975.74,227,32,2487.48,2487.48,India,Kolkata,45-54,Male,Audience Network,Mobile,Image
+C129,Lucknow Lead Gen,Lookalike 1%,Facebook,Conversions,ACTIVE,2026-05-06,2026-06-06,209192,185483,1718,1089.57,69,6,592.76,592.76,India,Lucknow,35-44,Male,Instagram Stories,Mobile,Video
+C125,Chennai Retargeting,Retargeting,Instagram,Sales,ACTIVE,2026-04-13,2026-05-02,223780,194241,604,2691.1,37,6,2383.95,2383.95,India,Chennai,18-24,Female,Facebook Feed,Mobile,Image
+C104,Jaipur Lead Generation,Lookalike 1%,Facebook,Traffic,ACTIVE,2026-06-03,2026-06-10,35104,27904,474,2350.34,51,7,1802.45,1802.45,India,Jaipur,18-24,Male,Instagram Feed,Mobile,Image
+C054,Jaipur Lead Generation,Interest - Technology,Facebook,Leads,ACTIVE,2026-02-15,2026-02-24,22506,14472,117,3771.34,11,0,4655.77,4655.77,India,Jaipur,45-54,All,Audience Network,Mobile,Image
+C118,hyderabad conversion,Engaged Users,Facebook,Traffic,ACTIVE,2026-03-29,2026-04-25,65119,57904,605,2099.96,31,8,966.44,966.44,India,Hyderabad,35-44,All,Audience Network,Mobile,Carousel
+C204,Kolkata Awareness,Website Visitors,Facebook,Sales,ACTIVE,2026-01-30,2026-02-13,88062,72436,377,3956.64,37,7,1739.83,1739.83,India,Kolkata,45-54,Male,Instagram Stories,Mobile,Reel
+C081,Chennai Retargeting,Interest - Business,Facebook,Traffic,active,2026-02-28,2026-03-17,114472,91681,1318,6469.27,115,13,4430.46,4430.46,India,Chennai,55+,All,Instagram Stories,Desktop,Video
+C119,gurgaon performance,,Instagram,Conversions,PAUSED,2026-04-06,2026-04-16,54728,38707,649,1774.04,49,12,1916.39,1916.39,India,Gurgaon,35-44,Male,Instagram Stories,Mobile,Image
+C212,jaipur lead generation,Interest - Business,Instagram,Leads,PAUSED,2026-06-19,2026-07-09,226343,146055,831,3673.85,52,12,4751.36,4751.36,India,Jaipur,25-34,Female,Reels,Mobile,Carousel
+C134,Ahmedabad Sales,Broad Audience, facebook ,Leads,PAUSED,2026-05-16,2026-06-14,81293,47453,236,938.26,10,4,197.8,197.8,India,Ahmedabad,45-54,All,Audience Network,Mobile,Image
+C176,Noida Conversion,Lookalike 1%,Facebook,Sales,PAUSED,2026-01-24,2026-02-09,41167,35646,133,2512.91,3,1,1848.07,1848.07,India,Noida,25-34,Male,Audience Network,Mobile,Video
+C005,Hyderabad Conversion,Lookalike 1%,Facebook,Conversions,ACTIVE,2026-05-01,2026-05-21,100657,71418,380,4749.5,15,3,745.06,745.06,India,Hyderabad,18-24,All,Audience Network,Desktop,Reel
+C163,Mumbai Sales,Broad Audience,Instagram,Traffic,ACTIVE,2026-03-20,2026-03-29,71274,44248,425,709.63,13,3,432.23,432.23,India,Mumbai,18-24,Female,Instagram Stories,Tablet,Video
+C215,Lucknow Lead Gen,Interest - Business,Facebook,Leads,PAUSED,2026-03-18,2026-04-05,199370,131003,2476,3539.11,131,2,2567.17,2567.17,India,Lucknow,25-34,All,Reels,Tablet,Image
+C009,Jaipur Lead Generation,Engaged Users,Instagram,Leads,ACTIVE,2026-03-22,04-16-2026,119904,90254,894,2210.02,46,15,2537.83,2537.83,India,Jaipur,25-34,All,Instagram Stories,Desktop,Image
+C019,Jaipur Lead Generation,Lookalike 1%,Facebook,Traffic,ACTIVE,2026-06-11,2026-06-25,79486,48635,420,2023.87,22,4,1918.1,1918.1,India,Jaipur,25-34,Male,Instagram Stories,Mobile,Image
+C165,Lucknow Lead Gen,Interest - Technology,Instagram,Leads,ACTIVE,2026-02-26,2026-03-10,50000,42490,659,4827.04,23,1,3210.84,3210.84,India,Lucknow,35-44,All,Instagram Feed,Desktop,Reel
+C143,Jaipur Lead Generation,Retargeting,Facebook,Conversions,ACTIVE,2026-05-14,2026-06-06,162329,132376,494,753.71,19,1,939.8,939.8,India,Jaipur,45-54,All,Facebook Stories,Mobile,Image
+C197,Jaipur Lead Generation,Interest - Business,Instagram,Conversions,PAUSED,2026-05-10,2026-06-05,35764,28676,102,2101.51,7,0,1823.24,1823.24,India,Jaipur,35-44,All,Facebook Stories,Mobile,Image
+C187,Kolkata Awareness,Lookalike 1%,Instagram,Traffic,COMPLETED,2026-02-26,2026-03-08,239872,168206,2227,5649.54,182,41,485.98,485.98,India,Kolkata,55+,All,Facebook Stories,Mobile,Video
+C133,Delhi NCR Lead Gen,Engaged Users,Instagram,Leads,PAUSED,2026-03-05,2026-03-29,117304,90272,512,2174.73,57,8,2536.76,2536.76,India,Delhi NCR,18-24,Female,Instagram Stories,Mobile,Carousel
+C140,Noida Conversion,Lookalike 1%,Instagram,Leads,ACTIVE,2026-02-06,2026-03-06,201906,152324,1559,2796.91,157,21,3721.3,3721.3,India,Noida,18-24,Male,Instagram Stories,Mobile,Image
+C148,Delhi NCR Lead Gen,Lookalike 1%,Facebook,Leads,PAUSED,2026-04-02,2026-04-13,186282,144824,1147,1954.86,70,20,1647.82,1647.82,India,Delhi NCR,25-34,Female,Facebook Feed,Desktop,Image
+C066,Hyderabad Conversion,Interest - Technology,Instagram,Traffic,ACTIVE,29/06/2026,2026-07-18,127448,73863,784,2709.58,17,2,319.43,319.43,India,Hyderabad,35-44,Female,Audience Network,Mobile,Video
+C031,Jaipur Lead Generation,Website Visitors,Instagram,Leads,ACTIVE,17/06/2026,2026-07-03,50000,34776,220,4983.77,11,3,4880.48,4880.48,India,Jaipur,45-54,All,Instagram Feed,Mobile,Video
+C241,Lucknow Lead Gen,Interest - Technology,Instagram,Traffic,COMPLETED,2026-05-26,2026-06-24,167067,94320,2127,1533.57,189,28,368.14,368.14,India,Lucknow,45-54,All,Audience Network,Mobile,Video
+C224,Mumbai Sales,Engaged Users,Instagram,Conversions,COMPLETED,2026-02-05,2026-02-24,194907,140897,874,723.24,18,10,968.82,968.82,India,Mumbai,35-44,Female,Facebook Stories,Mobile,Video
+C058,Noida Conversion,Website Visitors,Facebook,Leads,ACTIVE,2026-06-14,2026-06-26,135294,90031,6069,5924.89,1583,475,33384.1,33384.1,India,Noida,45-54,All,Instagram Stories,Mobile,Video
+C008,Bangalore Tech Leads,Lookalike 1%,Instagram,Leads,ACTIVE,2026-01-22,2026-01-31,39725,23858,1419,1182.91,305,113,7530.33,7530.33,India,Bangalore,35-44,All,Instagram Stories,Mobile,Carousel
+C099,Pune Education,Retargeting,Facebook,Leads,COMPLETED,2026-03-14,2026-03-26,78487,46008,462,805.33,36,6,919.71,919.71,India,Pune,18-24,Female,Facebook Feed,Mobile,Video
+C090,Mumbai Sales,Lookalike 1%,Facebook,Conversions,PAUSED,2026/01/26,2026-02-02,70810,53509,365,4242.47,27,7,1706.12,1706.12,India,Mumbai,55+,All,Audience Network,Mobile,Image
+C237,Bangalore Tech Leads,Interest - Business,Instagram,Leads,PAUSED,2026-06-28,2026-07-06,160713,97987,1133,3988.24,108,17,3995.13,3995.13,India,Bangalore,18-24,All,Audience Network,Mobile,Video
+C235,Pune Education,Engaged Users,Instagram,Leads,ACTIVE,2026-03-19,2026-04-03,33993,29702,469,772.33,46,4,566.52,566.52,India,Pune,55+,Female,Facebook Stories,Mobile,Video
+C196,Noida Conversion,Retargeting,Instagram,Traffic,ACTIVE,2026-03-14,2026-03-28,44928,33847,381,5860.01,22,3,1168.9,1168.9,India,Noida,18-24,All,Audience Network,Mobile,Image
+C072,Delhi NCR Lead Gen,Broad Audience,Instagram,Conversions,ACTIVE,2026-06-17,2026-06-29,69405,46598,718,1734.96,28,2,2257.48,2257.48,India,Delhi NCR ,45-54,Male,Facebook Feed,Mobile,Image
+C146,Ahmedabad Sales,Website Visitors,Instagram,Leads,ACTIVE,2026-03-09,2026-04-07,189951,143758,2351,3424.85,219,47,1196.73,1196.73,India,Ahmedabad,55+,Male,Instagram Stories,Mobile,Reel
+C159,Pune Education,Broad Audience,Facebook,Sales,PAUSED,2026-03-14,2026-04-04,129426,72217,1630,5001.96,151,14,3684.51,3684.51,India,Pune,55+,Male,Reels,Mobile,Video
+C256,Chennai Retargeting,Interest - Technology,Facebook,Sales,ACTIVE,2026-03-19,2026-04-02,146018,129298,1679,5943.05,178,21,1265.04,1265.04,India,Chennai,45-54,Male,Facebook Stories,Mobile,Reel
+C068,Bangalore Tech Leads,Website Visitors,Instagram,Traffic,ACTIVE,2026-03-15,2026-03-26,102887,73955,1201,5012.88,26,3,1702.3,1702.3,India,Bangalore,25-34,All,Facebook Feed,Mobile,Reel
+C207,Hyderabad Conversion,Interest - Technology,Instagram,,ACTIVE,2026-04-24,2026-05-13,50000,41197,2229,5870.4,408,156,50465.25,50465.25,India,Hyderabad,45-54,All,Audience Network,Mobile,Image
+C016,Hyderabad Conversion,Website Visitors,Instagram,Leads,ACTIVE,2026-03-18,2026-04-04,50000,28947,308,3073.01,24,4,2513.28,2513.28,India,Hyderabad,25-34,Female,Facebook Feed,Desktop,Image
+C191,Lucknow Lead Gen,Retargeting,Instagram,Sales,ACTIVE,2026-03-03,2026-03-12,204304,147166,2708,2887.79,160,29,952.58,952.58,India,Lucknow,25-34,All,Audience Network,Mobile,Video
+C228,Lucknow Lead Gen,Website Visitors,Instagram,Leads,ACTIVE,2026-03-19,04-12-2026,134810,97298,540,2668.97,62,2,2533.9,2533.9,India,Lucknow,25-34,All,Facebook Stories,Mobile,Video
+C252,Chennai Retargeting,Website Visitors,Instagram,Traffic,ACTIVE,2026-03-13,2026-04-05,202167,177550,1071,5810.01,51,3,6024.69,6024.69,India,Chennai,45-54,Female,Facebook Stories,Mobile,Image
+C171,Hyderabad Conversion,Interest - Business,Instagram,Leads,ACTIVE,2026-05-14,2026-06-04,123158,92381,594,3416.82,27,2,2538.54,2538.54,India,Hyderabad,35-44,Male,Reels,Mobile,Carousel
+C034,chennai retargeting,Interest - Technology,Facebook,Conversions,ACTIVE,2026-03-26,2026-04-22,13678,9789,41,4484.61,2,0,5822.6,5822.6,India,Chennai,45-54,Female,Instagram Feed,Mobile,Video
+C071,Mumbai Sales,Interest - Business,Facebook,Leads,ACTIVE,2026-03-27,2026-04-26,138454,89087,522,5135.86,56,3,2333.54,2333.54,India,Mumbai,35-44,Male,Facebook Stories,Mobile,Carousel
+C091,Chennai Retargeting,Interest - Technology,Instagram,Conversions,ACTIVE,2026-05-09,2026-06-04,169113,112637,2176,6227.39,59,47,8267.52,8267.52,India,Chennai,55+,Female,Facebook Stories,Desktop,Carousel
+C154,Mumbai Sales,Broad Audience,Facebook,Conversions,PAUSED,2026-06-18,2026-07-05,240292,175950,981,1262.47,102,7,987.48,987.48,India,nan ,55+,All,Reels,Mobile,Video
+C075,Delhi NCR Lead Gen,Interest - Business,Instagram,Traffic,COMPLETED,2026-01-01,2026-01-14,242008,170281,2321,2168.88,83,28,628.86,628.86,India,Delhi NCR,18-24,All,Instagram Feed,Mobile,Video
+C172,Pune Education,Interest - Business,Facebook,Conversions,PAUSED,2026-02-18,2026-03-07,58221,32461,715,2416.99,40,9,2449.9,2449.9,India,Pune,45-54,Female,Facebook Stories,Mobile,Video
+C232,Pune Education,Lookalike 1%,Instagram,Sales,PAUSED,2026-01-10,2026-01-18,166335,139588,1190,1899.52,135,20,2015.18,2015.18,India,Pune,18-24,Female,Facebook Feed,Mobile,Image
+C246,Jaipur Lead Generation,Engaged Users,Instagram,Conversions,paused,2026-06-19,2026-06-28,52141,45031,202,2234.33,21,4,463.63,463.63,India,Jaipur,25-34,Male,Audience Network,Mobile,Reel
+C257,Hyderabad Conversion,Interest - Technology,Instagram,Conversions,COMPLETED,2026-06-25,2026-07-08,240688,144193,6881,2273.45,1607,492,16480.91,16480.91,India,Hyderabad,25-34,All,Reels,Mobile,Image
+C240,Lucknow Lead Gen,Lookalike 1%,Facebook,Traffic,ACTIVE,2026-05-06,2026-05-13,178360,132684,7495,3872.76,1197,674,25934.38,25934.38,India,Lucknow,18-24,All,Audience Network,Mobile,Image
+C236,lucknow lead gen,Engaged Users,Facebook,Traffic,paused,2026-03-16,2026-03-28,37591,22103,199,5850.34,19,0,7452.3,7452.3,India,Lucknow,18-24,All,Facebook Stories,Mobile,Video
+C039,Chennai Retargeting,Interest - Technology,Instagram,Traffic,COMPLETED,2026-01-14,2026-01-25,114221,89695,965,3812.09,61,10,2869.66,2869.66,India,Chennai,18-24,Female,Facebook Feed,Mobile,Reel
+C117,Mumbai Sales,Lookalike 1%, INSTAGRAM ,Leads,ACTIVE,2026-06-18,2026-07-09,177963,115396,714,3495.78,82,2,4507.31,4507.31,India,Mumbai ,25-34,All,Facebook Stories,Desktop,Image
+C098,Pune Education,Interest - Technology,Instagram,Leads,ACTIVE,2026-05-25,2026-06-05,34531,26961,151,2168.47,3,1,745.52,745.52,India,Pune,18-24,Male,Instagram Feed,Mobile,Image
+C178,pune education,Broad Audience,Instagram,Sales,ACTIVE,2026-01-07,2026-01-18,50000,40222,193,4227.15,12,3,2064.32,2064.32,India,Pune,55+,All,Instagram Stories,Desktop,Video
+C142,Bangalore Tech Leads,Retargeting,Facebook,Leads,ACTIVE,2026-01-10,2026-02-03,228910,187483,1626,6433.9,165,19,2044.65,2044.65,India,Bangalore,55+,Female,Instagram Stories,Mobile,Video
+C220,Jaipur Lead Generation,Retargeting,Instagram,Traffic,PAUSED,2026-05-18,2026-06-13,247979,145739,2734,6039.86,148,29,1655.85,1655.85,India,Jaipur,55+,All,Facebook Stories,Desktop,Image
+C139,Chennai Retargeting,Interest - Technology,Facebook,Conversions,ACTIVE,20/03/2026,2026-04-03,197241,171718,606,4311.71,57,4,4695.28,4695.28,India,Chennai,25-34,All,Instagram Stories,Mobile,Image
+C239,Noida Conversion,Retargeting,Instagram,Conversions,ACTIVE,2026-01-04,01-18-2026,248311,156578,2887,3240.34,242,15,4060.81,4060.81,India,Noida,55+,All,Reels,Mobile,Video
+C026,Lucknow Lead Gen,Website Visitors,Instagram,Conversions,ACTIVE,2026-06-21,2026-07-19,242234,136400,612,1059.97,40,13,462.93,462.93,India,Lucknow,45-54,Male,Facebook Stories,Mobile,Video
+C014,Delhi NCR Lead Gen,Retargeting,Instagram,Conversions,ACTIVE,2026-06-28,2026-07-12,186395,138714,742,2978.98,83,3,2630.44,2630.44,India,Delhi NCR,55+,Female,Audience Network,Mobile,Video
+C156,Pune Education,Engaged Users,Facebook,Leads,PAUSED,2026-02-27,2026-03-17,26956,18325,166,4527.72,13,2,3013.63,3013.63,India,Pune,45-54,Male,,Mobile,Image
+C059,Kolkata Awareness,Interest - Business,Instagram,Conversions,ACTIVE,2026-05-15,2026-05-26,234385,196983,1860,1727.97,163,38,890.33,890.33,India,Kolkata,25-34,All,Audience Network,Mobile,Image
+C218,Ahmedabad Sales,Website Visitors,Instagram,Leads,ACTIVE,2026-02-03,2026-02-17,53332,44419,652,5876.43,61,1,3825.75,3825.75,India,Ahmedabad,45-54,All,Facebook Feed,Mobile,Carousel
+C219,Bangalore Tech Leads,Retargeting,Facebook,Traffic,COMPLETED,2026-01-18,2026-02-17,42848,28322,595,2454.39,68,7,2253.6,2253.6,India,Bangalore,55+,All,Reels,Mobile,Image
+C065,Delhi NCR Lead Gen,Lookalike 1%,Instagram,Traffic,ACTIVE,2026-03-12,2026-03-24,177797,157086,1193,3958.55,109,19,2343.41,2343.41,India,Delhi NCR ,25-34,All,Instagram Stories,Desktop,Video
+C185,Hyderabad Conversion,Interest - Business,Facebook,Traffic,ACTIVE,2026-02-18,2026-03-21,104048,67820,869,4453.02,47,17,2727.53,2727.53,India,Hyderabad,45-54,All,Audience Network,Mobile,Video
+C053,Gurgaon Performance,Lookalike 1%,Instagram,Leads,PAUSED,2026-06-02,2026-06-27,177237,129430,1275,1232.0,110,13,295.4,295.4,India,Gurgaon,25-34,All,Facebook Stories,Mobile,Image
+C245,Jaipur Lead Generation,Broad Audience,Instagram,Traffic,ACTIVE,2026-03-20,2026-04-08,204955,131086,2057,2593.97,81,30,272.64,272.64,India,Jaipur,18-24,Female,Facebook Stories,Mobile,Video
+C035,Delhi NCR Lead Gen,Engaged Users,Facebook,Sales,PAUSED,2026-05-27,2026-06-06,33464,29368,383,4573.53,12,7,1798.69,1798.69,India,Delhi NCR,35-44,All,Instagram Feed,Mobile,Video
+C079,Bangalore Tech Leads,Engaged Users, INSTAGRAM ,Conversions,ACTIVE,2026-04-24,2026-05-21,241565,146777,1368,4613.47,151,5,2030.26,2030.26,India,Bangalore,35-44,Male,Audience Network,Mobile,Carousel
+C121,Chennai Retargeting,Broad Audience,Facebook,Leads,paused,2026-02-20,2026-03-08,150467,85121,726,6226.95,58,8,6044.92,6044.92,India,Chennai,55+,All,Reels,Mobile,Video
+C249,Gurgaon Performance,,Facebook,Conversions,PAUSED,2026-01-03,2026-01-24,156514,109917,850,6361.54,50,12,3098.22,3098.22,India,Gurgaon,35-44,Male,Reels,Mobile,Video
+C070,Noida Conversion,Retargeting,Instagram,Leads,PAUSED,2026-02-26,2026-03-23,66049,59267,685,5775.62,55,1,3396.52,3396.52,India,Noida,45-54,Male,Facebook Stories,Mobile,Video
+C029,Lucknow Lead Gen,Website Visitors,Instagram,Conversions,PAUSED,2026-03-11,2026-03-31,142043,122453,1080,2568.85,80,22,2991.58,2991.58,India,Lucknow,45-54,Male,Reels,Mobile,Image
+C136,Gurgaon Performance,Lookalike 1%,Facebook,Leads,COMPLETED,2026-01-27,2026-02-26,178019,144553,1447,2116.39,161,20,1067.34,1067.34,India,Gurgaon,55+,Male,Reels,Mobile,Video
+C132,Kolkata Awareness,Website Visitors,Facebook,Conversions,ACTIVE,2026-05-07,2026-05-23,206385,177857,8973,5071.95,2174,796,50166.79,50166.79,India,Kolkata,45-54,Female,Audience Network,Mobile,Image
+C225,Ahmedabad Sales,Website Visitors,Instagram,Sales,paused,2026-01-01,2026-01-14,158511,136748,1786,2093.31,150,19,1380.95,1380.95,India,Ahmedabad,55+,All,Facebook Stories,Mobile,Video
+C166,Delhi NCR Lead Gen,Broad Audience,Instagram,Leads,PAUSED,2026-05-17,2026-06-05,188579,137964,1098,3077.9,45,7,2536.71,2536.71,India,Delhi NCR,45-54,Female,Instagram Feed,Mobile,Image
+C043,Pune Education,Lookalike 1%,Facebook,Conversions,ACTIVE,17/04/2026,2026-04-25,157277,103893,1869,743.54,100,35,217.84,217.84,India,Pune,55+,Male,Facebook Feed,Mobile,Carousel
+C024,Mumbai Sales,Website Visitors,Facebook,Sales,ACTIVE,2026-05-15,2026-06-14,50000,41010,583,5191.15,18,10,1327.26,1327.26,India,Mumbai ,55+,All,Instagram Feed,Desktop,Reel
+C092,Noida Conversion,Lookalike 1%,Instagram,Conversions,ACTIVE,2026-03-24,2026-04-16,73784,57668,515,1592.99,32,11,517.07,517.07,India,Noida,18-24,All,Reels,Mobile,Video
+C195,lucknow lead gen,Interest - Technology,Instagram,Conversions,ACTIVE,2026-04-04,2026-05-01,69141,47069,665,1103.92,22,13,1463.4,1463.4,India,Lucknow,45-54,All,Audience Network,Desktop,Video
+C088,Pune Education,Broad Audience,Instagram,Leads,COMPLETED,2026-02-09,2026-03-01,143095,83433,1658,4548.03,51,11,5474.73,5474.73,India,Pune,25-34,Female,Instagram Feed,Mobile,Image
+C205,Hyderabad Conversion,Website Visitors,Facebook,Sales,ACTIVE,2026-02-21,2026-03-06,50000,40568,603,3902.67,42,2,2411.22,2411.22,India,Hyderabad,18-24,All,Reels,Mobile,Image
+C101,Pune Education,Interest - Business,Instagram,Leads,ACTIVE,2026-03-13,2026-04-10,210512,135119,2187,6496.65,156,32,8704.81,8704.81,India,Pune,35-44,Male,Audience Network,Mobile,Image
+C247,Lucknow Lead Gen,Lookalike 1%,Facebook,Conversions,PAUSED,2026-04-03,2026-04-11,212390,186453,763,2546.29,50,12,3362.03,3362.03,India,Lucknow,55+,All,Instagram Feed,Mobile,Image
+C095,Jaipur Lead Generation,Broad Audience,Facebook,Leads,COMPLETED,2026-01-02,2026-02-01,8229,5219,60,2749.36,5,0,2567.28,2567.28,India,Jaipur,35-44,Male,Reels,Mobile,Reel
+C210,kolkata awareness,Engaged Users,Instagram,Conversions,ACTIVE,2026-02-03,2026-03-04,180794,107204,2182,2564.96,207,39,1562.49,1562.49,India,Kolkata,45-54,Female,Instagram Feed,Mobile,Image
+C032,Lucknow Lead Gen,Website Visitors,Facebook,Sales,ACTIVE,2026-03-17,2026-03-26,119550,100528,1400,1534.67,151,15,1863.32,1863.32,India,Lucknow,18-24,Female,Instagram Feed,Desktop,Image
+C094,Bangalore Tech Leads,Website Visitors, facebook ,Leads,ACTIVE,2026-04-01,2026-04-25,42570,25697,1146,1278.1,147,70,9802.03,9802.03,India,Bangalore ,45-54,All,,Mobile,Video
+C046,ahmedabad sales,Website Visitors,Instagram,Leads,PAUSED,2026-02-12,2026-02-26,83169,50961,208,902.06,17,2,959.59,959.59,India,Ahmedabad,45-54,Male,Facebook Stories,Tablet,Reel
+C203,Ahmedabad Sales,Interest - Technology,Facebook,Leads,ACTIVE,2026-02-14,2026-03-01,139907,106299,1674,5692.65,171,7,1517.19,1517.19,India,Ahmedabad,45-54,All,Facebook Stories,Desktop,Video
+C109,Jaipur Lead Generation,Retargeting,Facebook,Traffic,ACTIVE,2026-02-11,2026-03-08,205393,175836,1786,2987.99,167,32,591.03,591.03,India,Jaipur ,55+,Male,Facebook Stories,Mobile,Video
+C106,Bangalore Tech Leads,Website Visitors,Instagram,Leads,ACTIVE,2026-06-09,2026-06-25,52130,32255,284,5051.54,18,4,3638.66,3638.66,India,Bangalore,45-54,All,Audience Network,Mobile,Reel
+C150,Jaipur Lead Generation,Website Visitors,Facebook,Conversions,ACTIVE,2026-01-16,2026-02-01,163084,107409,1097,5058.65,34,6,1743.42,1743.42,India,Jaipur,45-54,All,Audience Network,Mobile,Carousel
+C030,Jaipur Lead Generation,Lookalike 1%,Facebook,Traffic,ACTIVE,2026-05-17,2026-05-27,5000,4110,17,5474.02,1,0,1656.93,1656.93,India,Jaipur,55+,All,Instagram Feed,Mobile,Reel
+C110,Delhi NCR Lead Gen,Lookalike 1%,Instagram,Conversions,COMPLETED,2026-02-27,2026-03-10,71498,63643,993,3302.63,58,3,3005.38,3005.38,India,Delhi NCR,35-44,All,Instagram Feed,Mobile,Video
+C164,Jaipur Lead Generation,Interest - Technology,Facebook,Conversions,ACTIVE,2026-03-18,2026-03-25,136926,99306,1720,1815.34,72,36,2157.59,2157.59,India,Jaipur,55+,All,Facebook Feed,Mobile,Reel
+C123,gurgaon performance,Website Visitors,Instagram,Conversions,active,2026-06-12,2026-06-30,63452,38094,637,3985.24,47,4,4037.45,4037.45,India,Gurgaon,25-34,All,Facebook Feed,Desktop,Carousel
+C230,Hyderabad Conversion,Interest - Business,Instagram,Leads,ACTIVE,2026-03-30,2026-04-22,49617,27531,2062,1176.97,445,172,6041.26,6041.26,India,Hyderabad,55+,All,Instagram Stories,Mobile,Video
+C105,Jaipur Lead Generation,Interest - Technology,Instagram,Leads,ACTIVE,2026-05-17,2026-06-07,78316,49368,633,5095.88,64,4,3117.12,3117.12,India,Jaipur,45-54,All,Facebook Stories,Mobile,Video
+C061,Kolkata Awareness,Interest - Technology,Facebook,Sales,ACTIVE,2026-05-06,2026-05-13,157358,93807,1408,3727.13,72,12,1579.5,1579.5,India,Kolkata,45-54,All,Instagram Feed,Mobile,Video
+C147,Lucknow Lead Gen,Interest - Technology,Instagram,Conversions,PAUSED,2026-01-24,2026-02-04,243871,191970,8848,905.98,1362,726,4829.22,4829.22,India,Lucknow,45-54,Male,Facebook Stories,Mobile,Video
+C084,Kolkata Awareness,Broad Audience,Facebook,Sales,ACTIVE,2026-03-08,2026-03-22,57109,33845,2449,5885.48,478,198,34487.74,34487.74,India,Kolkata,55+,All,Audience Network,Mobile,Video
+C234,Gurgaon Performance,Interest - Business,Instagram,Sales,PAUSED,2026-01-26,2026-02-17,230462,167595,1837,1948.03,144,37,303.01,303.01,India,Gurgaon,25-34,Male,Audience Network,Mobile,Reel
+C126,Pune Education,Interest - Business,Facebook,Leads,ACTIVE,2026-01-06,2026-02-02,188020,149098,892,1275.11,36,13,448.71,448.71,India,Pune,35-44,Female,Facebook Stories,Mobile,Video
+C167,noida conversion,Website Visitors,Instagram,Leads,ACTIVE,2026-06-17,2026-07-18,59837,45080,440,5689.63,22,2,1428.43,1428.43,India,Noida,55+,Female,Instagram Feed,Mobile,Carousel
+C199,Mumbai Sales,Lookalike 1%,Instagram,Leads,PAUSED,2026-05-15,2026-06-09,21756,13487,144,2235.88,11,0,1193.65,1193.65,India,Mumbai,45-54,All,Facebook Feed,Mobile,Video
+C254,Mumbai Sales,Broad Audience,Facebook,Conversions,PAUSED,2026-02-06,2026-02-17,199732,166065,971,1279.02,29,19,1612.43,1612.43,India,Mumbai,55+,Male,Facebook Feed,Tablet,Image
+C190,bangalore tech leads,Website Visitors,Facebook,Conversions,active,2026-05-20,2026-06-13,42500,34016,1160,5673.34,279,92,31826.56,31826.56,India,Bangalore,18-24,All,Facebook Stories,Mobile,Video
+C251,chennai retargeting,Engaged Users,Instagram,Conversions,ACTIVE,2026-05-30,2026-06-07,240489,194470,2868,956.22,172,34,1286.86,1286.86,India,Chennai ,35-44,All,Audience Network,Desktop,Video
+C001,Mumbai Sales,Retargeting,Facebook,Traffic,ACTIVE,2026-03-28,2026-04-08,81098,48323,504,5375.91,18,10,4368.53,4368.53,India,Mumbai,55+,Female,Facebook Feed,Mobile,Image
+C208,kolkata awareness,Interest - Business,Facebook,Leads,COMPLETED,2026-06-02,2026-06-30,95461,56638,1312,6331.13,76,15,4475.88,4475.88,India,Kolkata,25-34,All,Audience Network,Mobile,Image
+C209,Ahmedabad Sales,Broad Audience,Instagram,Conversions,ACTIVE,2026-06-15,2026-07-04,16708,14613,118,2562.3,4,1,621.68,621.68,India,Ahmedabad,18-24,Female,Instagram Stories,Mobile,Image
+C089,Chennai Retargeting,Lookalike 1%,Facebook,Leads,ACTIVE,2026-03-30,2026-04-25,185605,127910,684,2780.3,41,13,2303.34,2303.34,India,Chennai,35-44,Male,Facebook Stories,Mobile,Image
+C078,Pune Education,Retargeting,Instagram,Leads,ACTIVE,2026-02-18,2026-03-08,137862,90345,1028,6110.12,60,14,7680.41,7680.41,India,Pune,25-34,Male,Facebook Feed,Mobile,Carousel
+C013,Kolkata Awareness,Interest - Technology,Facebook,Conversions,COMPLETED,2026-04-02,2026-04-09,14908,10748,93,3378.54,7,0,2707.15,2707.15,India,Kolkata,45-54,Female,Audience Network,Mobile,Reel
+C162,Lucknow Lead Gen,Retargeting,Instagram,Leads,ACTIVE,2026-03-14,2026-03-21,179844,140638,6490,3020.12,877,440,20321.34,20321.34,India,Lucknow,18-24,Female,Facebook Stories,Desktop,Carousel
+C124,Jaipur Lead Generation,Broad Audience,Instagram,Traffic,ACTIVE,2026-01-31,2026-02-23,42630,37704,187,1944.33,14,3,1116.34,1116.34,India,,25-34,All,Facebook Feed,Mobile,Carousel
+C042,Mumbai Sales,Lookalike 1%,Instagram,Leads,COMPLETED,2026-04-23,2026-05-03,50000,32512,559,6079.53,44,3,6870.01,6870.01,India,Mumbai,55+,All,Facebook Feed,Mobile,Video
+C114,Jaipur Lead Generation,Engaged Users,Facebook,Conversions,ACTIVE,2026-02-18,2026-02-28,184448,161149,1880,2976.41,211,3,3812.22,3812.22,India,Jaipur,35-44,All,Facebook Stories,Mobile,Image
+C096,Mumbai Sales,Website Visitors,Facebook,Conversions,ACTIVE,2026-01-28,2026-02-12,203041,113439,1859,4646.43,141,2,599.15,599.15,India,,35-44,All,Reels,Mobile,Video
+C012,Lucknow Lead Gen,Interest - Technology,Facebook,Leads,ACTIVE,2026-06-16,2026-07-13,47049,35019,131,3579.22,8,2,4159.86,4159.86,India,Lucknow,25-34,All,Instagram Feed,Mobile,Video
+C115,Noida Conversion,Lookalike 1%,Instagram,Sales,PAUSED,2026-05-10,2026-05-18,110776,85507,283,5796.83,16,4,2898.47,2898.47,India,Noida,45-54,Male,Facebook Stories,Desktop,Image
+C076,Hyderabad Conversion,Broad Audience,Facebook,Leads,PAUSED,2026-02-05,2026-02-27,23995,14086,215,5194.47,14,1,1474.95,1474.95,India,Hyderabad,35-44,Female,Instagram Feed,Desktop,Video
+C173,Mumbai Sales,Broad Audience,Facebook,Leads,ACTIVE,2026-06-28,2026-07-27,233292,139769,2022,5662.72,78,43,7382.76,7382.76,India,Mumbai,18-24,Male,Facebook Feed,Mobile,Video
+C002,Jaipur Lead Generation,Engaged Users,Instagram,Sales,PAUSED,2026-06-19,2026-07-13,19819,13807,184,1286.42,18,3,714.69,714.69,India,Jaipur,35-44,All,Instagram Feed,Mobile,Video
+C182,Gurgaon Performance,Retargeting,Instagram,Sales,ACTIVE,2026-03-29,2026-04-12,173481,154082,6008,4300.38,1129,466,42619.91,42619.91,India,Gurgaon,35-44,All,Audience Network,Mobile,Video
+C097,Chennai Retargeting,Interest - Technology,Facebook,Leads,ACTIVE,2026-02-28,2026-03-09,142458,108070,962,5309.55,99,9,1223.14,1223.14,India,Chennai ,18-24,All,Instagram Stories,Mobile,Carousel
+C238,Jaipur Lead Generation,Interest - Technology,Instagram,Conversions,PAUSED,2026-04-04,2026-05-01,201099,176274,1160,839.03,83,8,998.78,998.78,India,Jaipur ,45-54,Female,Instagram Stories,Mobile,Carousel
+C006,Pune Education,Broad Audience,Instagram,Traffic,PAUSED,2026-01-05,2026-01-17,244775,203536,1917,4576.32,110,29,1315.73,1315.73,India,Pune,55+,All,Instagram Stories,Mobile,Carousel
+C188,Pune Education,Engaged Users,Instagram,Conversions,ACTIVE,2026-02-12,2026-03-11,23398,16696,224,3729.06,9,0,2485.02,2485.02,India,Pune,25-34,All,Instagram Stories,Desktop,Video
+C179,Jaipur Lead Generation,,Facebook,Leads,COMPLETED,2026-06-10,2026-07-02,57310,47261,235,1261.5,26,1,652.27,652.27,India,Jaipur,18-24,All,Instagram Feed,Mobile,Video
+C155,Hyderabad Conversion,Lookalike 1%,Instagram,Sales,ACTIVE,2026-02-05,2026-03-08,140735,78282,1007,1168.26,85,18,1539.2,1539.2,India,Hyderabad,35-44,All,Instagram Stories,Mobile,Video
+C023,Delhi NCR Lead Gen,Lookalike 1%,Facebook,Leads,COMPLETED,2026-05-27,2026-06-21,196904,115819,8354,3314.03,1050,671,23679.16,23679.16,India,Delhi NCR,18-24,All,Reels,Desktop,Carousel
+C020,Lucknow Lead Gen,Broad Audience,Facebook,Leads,PAUSED,2026-06-19,2026-07-18,233824,196482,2022,934.32,183,44,1212.33,1212.33,India,Lucknow,35-44,Male,Facebook Feed,Tablet,Reel
+C100,Ahmedabad Sales,Website Visitors,Instagram,Conversions,PAUSED,2026-02-06,2026-02-24,86464,71668,516,6128.07,53,10,841.36,841.36,India,Ahmedabad,25-34,Male,Instagram Stories,Mobile,Carousel
+C170,Hyderabad Conversion,Lookalike 1%,Facebook,,PAUSED,2026-06-19,2026-06-28,107928,68148,415,1603.39,30,0,1828.0,1828.0,India,Hyderabad,35-44,Male,,Mobile,Image
+C022,Pune Education,Interest - Technology,Facebook,Leads,ACTIVE,2026-01-11,2026-01-23,240959,177290,3139,3281.09,82,40,1917.75,1917.75,India,Pune ,45-54,Male,Instagram Stories,Desktop,Video
+C161,Bangalore Tech Leads,Website Visitors,Facebook,Conversions,ACTIVE,2026-04-05,2026-05-06,95080,72460,1296,2359.07,150,9,756.06,756.06,India,Bangalore,45-54,All,Audience Network,Mobile,Video
+C074,Pune Education,Website Visitors,Facebook,Conversions,ACTIVE,2026-03-10,2026-03-17,50000,42685,179,5514.11,21,3,5398.1,5398.1,India,Pune,18-24,Male,Facebook Feed,Mobile,Video
+C018,Delhi NCR Lead Gen,Engaged Users,Facebook,Leads,ACTIVE,2026-05-31,2026-06-28,226040,172036,2754,5315.57,205,57,1282.16,1282.16,India,Delhi NCR,18-24,Male,Facebook Stories,Mobile,Reel
+C229,Pune Education,Broad Audience,Facebook,Sales,ACTIVE,2026-01-20,2026-02-01,117869,81848,1031,4788.06,70,20,6292.43,6292.43,India,Pune,55+,Female,Instagram Feed,Desktop,Video
+C063,Hyderabad Conversion,Retargeting,Facebook,Sales,ACTIVE,2026-01-07,2026-02-02,149715,101950,1160,2970.74,33,10,1601.91,1601.91,India,Hyderabad,55+,Male,Reels,Mobile,Video
+C028,Hyderabad Conversion,Retargeting,Instagram,Sales,ACTIVE,2026-04-24,2026-05-07,87802,61378,297,6097.97,24,5,3942.41,3942.41,India,Hyderabad,45-54,All,Instagram Stories,Desktop,Video
+C048,Pune Education,Interest - Business,Instagram,Leads,COMPLETED,2026-03-25,2026-04-16,93842,73025,272,6359.27,11,1,2171.0,2171.0,India,Pune,35-44,Male,Facebook Stories,Desktop,Video
+C080,Lucknow Lead Gen,Interest - Business,Instagram,Leads,COMPLETED,2026-05-03,2026-06-01,137087,117020,1155,2070.89,28,23,2735.72,2735.72,India,Lucknow,18-24,Female,Audience Network,Mobile,Image
+C040,Lucknow Lead Gen,Website Visitors,Facebook,Sales,PAUSED,2026/01/03,2026-01-17,140034,99265,597,3997.7,66,1,1310.48,1310.48,India,Lucknow,45-54,Male,Facebook Feed,Desktop,Image
+C244,Mumbai Sales,Broad Audience,Facebook,Leads,ACTIVE,2026-01-03,2026-01-24,217854,138717,1890,5343.38,154,26,1797.36,1797.36,India,Mumbai,55+,Female,Instagram Stories,Mobile,Video
+C021,Hyderabad Conversion,Retargeting,Facebook,Leads,PAUSED,2026-03-08,2026-04-03,175443,111025,2182,1225.36,92,45,639.43,639.43,India,Hyderabad,55+,Male,Instagram Feed,Mobile,Video
+C201,Delhi NCR Lead Gen,Broad Audience,Facebook,Leads,ACTIVE,2026-06-27,07-23-2026,72135,58509,543,5170.48,40,11,2897.82,2897.82,India,Delhi NCR,55+,All,Reels,Mobile,Reel
+C048,Pune Education,Interest - Business,Instagram,Leads,COMPLETED,2026-03-25,2026-04-16,93842,78433,431,4602.55,27,3,4186.27,4186.27,India,Pune,35-44,Male,Facebook Stories,Desktop,Video
+C141,Delhi NCR Lead Gen,Interest - Technology,Facebook,Leads,PAUSED,2026-01-18,2026-02-02,39337,23084,201,6132.68,7,3,1805.88,1805.88,India,Delhi NCR,35-44,All,Facebook Feed,Mobile,Video
+C193,Bangalore Tech Leads,Engaged Users,Instagram,Sales,COMPLETED,2026-01-29,2026-02-20,109922,63017,410,3647.52,26,4,2698.54,2698.54,India,Bangalore,45-54,Male,Reels,Mobile,Video
+C131,Delhi NCR Lead Gen,Website Visitors,Facebook,Traffic,ACTIVE,2026-06-22,2026-07-02,171747,130193,2394,3146.24,63,26,2161.44,2161.44,India,Delhi NCR,35-44,Male,Instagram Feed,Tablet,Video
+C216,Pune Education,Website Visitors,Instagram,Sales,ACTIVE,2026-01-13,2026-01-31,159221,95717,1483,994.83,175,8,885.17,885.17,India,Pune,18-24,Female,Instagram Feed,Desktop,Video
+C108,Jaipur Lead Generation,,Facebook,Conversions,PAUSED,2026-02-15,2026-03-07,94292,79076,744,1049.92,76,14,718.11,718.11,India,Jaipur,45-54,All,Instagram Stories,Mobile,Video
+C231,Noida Conversion,Interest - Business,Facebook,Conversions,COMPLETED,2026-05-02,2026-05-25,210815,138846,2098,4400.03,221,36,2744.63,2744.63,India,Noida,45-54,Female,Reels,Mobile,Image
+C060,delhi ncr lead gen,Interest - Business,Instagram,Conversions,PAUSED,2026-01-15,2026-01-27,115583,69390,1127,4596.75,130,9,4235.51,4235.51,India,Delhi NCR,18-24,Female,Instagram Feed,Mobile,Carousel
+C222,Hyderabad Conversion,Interest - Technology,Facebook,Conversions,paused,2026-03-25,2026-04-25,120219,104871,813,3633.42,76,8,4038.17,4038.17,India,Hyderabad ,25-34,Female,Audience Network,Desktop,Reel
+C177,jaipur lead generation,Retargeting,Instagram,Sales,PAUSED,2026-04-29,2026-05-10,35183,21389,273,1460.7,10,1,1499.28,1499.28,India,Jaipur,35-44,Female,Instagram Feed,Mobile,Image
+C194,Hyderabad Conversion,Interest - Business,Facebook,Traffic,ACTIVE,2026-05-21,2026-05-29,50000,32482,485,2281.0,15,8,2774.28,2774.28,India,Hyderabad,25-34,All,Reels,Mobile,Image
+C242,Mumbai Sales,Engaged Users,Instagram,Sales,paused,2026-05-07,2026-05-18,226993,137050,10015,2531.44,2050,612,15159.14,15159.14,India,Mumbai,18-24,All,Reels,Mobile,Reel
+C056,Noida Conversion,Lookalike 1%,Facebook,Leads,PAUSED,2026/06/22,2026-07-22,63868,37709,2724,1881.01,482,232,16065.32,16065.32,India,Noida,55+,All,Audience Network,Desktop,Image
+C159,Pune Education,Broad Audience,Facebook,Sales,PAUSED,2026-03-14,2026-04-04,129426,72142,1035,2488.33,33,4,1063.15,1063.15,India,Pune,55+,Male,Reels,Mobile,Video
+C152,Kolkata Awareness,Retargeting,Instagram,Sales,ACTIVE,2026-03-19,2026-03-30,124056,70636,1095,3490.51,107,17,589.24,589.24,India,Kolkata,18-24,All,Audience Network,Mobile,Reel
+C212,jaipur lead generation,Interest - Business,Instagram,Leads,PAUSED,2026-06-19,2026-07-09,226343,138323,2512,5459.23,110,45,3544.49,3544.49,India,Jaipur,25-34,Female,Reels,Mobile,Carousel
+C181,Lucknow Lead Gen,Lookalike 1%,Facebook,Sales,paused,2026-03-05,2026-03-20,237758,135209,1580,2973.95,69,7,2003.56,2003.56,India,Lucknow,35-44,Male,Audience Network,Tablet,Image
+C198,Delhi NCR Lead Gen,Broad Audience,Instagram,Conversions,PAUSED,2026-03-29,2026-04-09,91959,69603,1024,1459.16,65,7,622.28,622.28,India,Delhi NCR,55+,Female,Audience Network,Desktop,Carousel
+C069,Delhi NCR Lead Gen,Retargeting,Instagram,Conversions,PAUSED,2026-02-02,2026-02-18,106922,84281,639,5126.3,72,5,1946.54,1946.54,India,Delhi NCR,25-34,All,Facebook Feed,Desktop,Image
+C211,Noida Conversion,Broad Audience,Facebook,Conversions,PAUSED,2026-01-26,2026-02-10,192823,132618,1586,6493.21,129,23,7670.49,7670.49,India,Noida,35-44,All,Instagram Feed,Mobile,Image
+C233,Bangalore Tech Leads,Broad Audience,Facebook,Traffic,ACTIVE,06/05/2026,2026-05-20,131151,86729,1669,3373.4,46,33,3660.62,3660.62,India,Bangalore,18-24,All,Reels,Desktop,Image
+C202,Pune Education,Lookalike 1%,Instagram,Sales,PAUSED,2026-02-27,2026-03-07,228309,165885,612,3062.7,47,6,2167.72,2167.72,India,Pune,35-44,All,Instagram Stories,Mobile,Video
+C169,Hyderabad Conversion,Engaged Users,Instagram,Traffic,PAUSED,2026-04-04,2026-05-05,159526,136594,1411,2006.03,140,26,437.3,437.3,India,Hyderabad,45-54,All,Facebook Feed,Mobile,Reel
+C186,Hyderabad Conversion,Broad Audience,Facebook,Traffic,ACTIVE,2026-06-22,2026-07-12,50000,42394,612,5861.41,31,13,6966.87,6966.87,India,Hyderabad,25-34,All,Facebook Feed,Mobile,Image
+C036,Pune Education,Retargeting,Facebook,Conversions,COMPLETED,2026-05-31,2026-06-11,105814,59807,753,6145.07,41,4,5223.31,5223.31,India,Pune,45-54,All,Facebook Stories,Mobile,Reel
+C130,Kolkata Awareness,Interest - Business,Instagram,Conversions,PAUSED,2026-03-21,2026-04-05,135832,83336,1209,1832.08,31,8,541.65,541.65,India,Kolkata,35-44,Female,Instagram Feed,Mobile,Video
